@@ -1,0 +1,26 @@
+#myphoto {
+    float:center;
+    height:40%;
+    width:25%;
+}
+#centerDoc {
+    position: absolute;
+    z-index: 15;
+    padding: 0 0 20px 20px; /*top right bottom left*/
+    margin-top: 0;
+    margin-left: 500px;
+    width: 80%;
+    }
+    body {
+        font-family: Georgia, "Times New Roman", Times;
+        font-size: 14px;
+        color: #000000;
+        background-color: green;
+
+        }
+        
+        p { width: 30%; }
+        a:link {color:  purple; text-decoration: none;}   
+        a:visited { color: purple; background: red; }   
+        a:hover { color: red; text-decoration: underline;} 
+        a:active { color: purple; font-weight: bold;}
